@@ -1,0 +1,7 @@
+{
+  "name": "FinAA (Personal Financial AI Assistant)- Private Ledger",
+  "description": "Secure personal finance dashboard using your own Google Drive for storage. Protecting your privacy with client-side encryption and AI-driven insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
